@@ -1,0 +1,6 @@
+img {
+	height: 100px;
+}
+.container .card {
+	flex-direction: unset;
+}
